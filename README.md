@@ -1,4 +1,4 @@
-# Awesome Creative Field Mind Maps [![Awesome](https://awesome.re/badge.svg)](https://github.com/sindresorhus/awesome)
+# [Awesome Creative Field Mind Maps](https://mindmapai.app/mind-maps/creative-field) [![Awesome](https://awesome.re/badge.svg)](https://github.com/sindresorhus/awesome)
 
 Elevate your creative projects with project management and mind maps AI to organize ideas, streamline workflows, and bring artistic visions to life. Mind maps AI empowers artists, designers, and storytellers to plan, innovate, and execute impactful creations with clarity and control.
 
